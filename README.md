@@ -1,7 +1,7 @@
 ## 👨‍🦱 Me
-- 👋 Hi, I’m @iRubenTomas an Software Developer.
+- 👋 Hi, I’m @iRubenTomas a Software Developer.
 - 🌱 I’m currently learning about Domain Driven Design and Microservices architecture standard.
-- 🎮 My interests are photography, technology, games and motorcycles.
+- 🎮 My interests are photography, technology, games, and motorcycles.
 - 📌 I believe in Teamwork.
 - 💻 Goals: Learn more technological stacks and improve my overall skills.
 
