@@ -1,5 +1,5 @@
 ## 👨‍🦱 Me
-- 👋 Hi, I’m @iRubenTomas a Software Developer.
+- 👋 Hi, I’m @iRubenTomas, a Software Developer.
 - 🌱 I’m currently learning about Domain Driven Design and Microservices architecture standard.
 - 🎮 My interests are photography, technology, games, and motorcycles.
 - 📌 I believe in Teamwork.
@@ -9,7 +9,7 @@
 
 ## 🎓 Education
 - Bachelor's Degree in Informatics Engineering.
-- Master' Degree in Informatics Engineering with specialization in Software Engineering.
+- Master's Degree in Informatics Engineering with specialization in Software Engineering.
 
 
 
