@@ -21,3 +21,14 @@
 - 🖥️ C#: Strong expertise in C# programming language for backend development.
 - 🖥️ Microsoft SQL: Experienced in designing and managing databases using Microsoft SQL Server.
 - 🖥️ APIs: Skilled in building RESTful APIs for communication between different software systems.
+
+## 💼 Relevant Skills & Experiences
+- **Team Collaboration:** Proven ability to work effectively in cross-functional teams, leveraging teamwork and communication skills to achieve project objectives.
+- **Problem-Solving:** Adept at analyzing complex problems and developing innovative solutions, demonstrating critical thinking and analytical reasoning abilities.
+- **Adaptability:** Flexible and adaptable to changing priorities and environments, with a demonstrated ability to learn new technologies and methodologies quickly.
+- **Customer Focus:** Committed to delivering high-quality solutions that meet or exceed customer expectations, ensuring satisfaction and building long-term relationships.
+- **Continuous Learning:** Actively pursuing continuous learning and professional development opportunities to stay updated on the latest technologies and industry trends.
+
+## 🏆 Certifications
+- **Microsoft Certified: AZ-900: Microsoft Azure Fundamentals**
+- **AWS Certified Cloud Practitioner**
