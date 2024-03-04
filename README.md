@@ -22,7 +22,7 @@
 - 🖥️ Microsoft SQL: Experienced in designing and managing databases using Microsoft SQL Server.
 - 🖥️ APIs: Skilled in building RESTful APIs for communication between different software systems.
 
-## 💼 Relevant Skills & Experiences
+## 💼 Relevant Skills
 - **Team Collaboration:** Proven ability to work effectively in cross-functional teams, leveraging teamwork and communication skills to achieve project objectives.
 - **Problem-Solving:** Adept at analyzing complex problems and developing innovative solutions, demonstrating critical thinking and analytical reasoning abilities.
 - **Adaptability:** Flexible and adaptable to changing priorities and environments, with a demonstrated ability to learn new technologies and methodologies quickly.
